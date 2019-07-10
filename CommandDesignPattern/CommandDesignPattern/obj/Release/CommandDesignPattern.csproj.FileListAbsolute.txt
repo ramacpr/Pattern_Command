@@ -14,6 +14,3 @@ D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\C
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.csproj.CoreCompileInputs.cache
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.exe
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.pdb
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe.CodeAnalysisLog.xml
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe.lastcodeanalysissucceeded
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.csprojAssemblyReference.cache

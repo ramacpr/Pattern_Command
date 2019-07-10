@@ -8,7 +8,7 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class DoorOpen : ICommand
+    public class DoorOpen 
     {
         public DoorOpen() { }
         public event EventHandler CanExecuteChanged
@@ -25,6 +25,11 @@ namespace CommandDesignPattern.Commands
         public void Execute(object parameter)
         {
             MessageBox.Show("Door Opened");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -10,7 +10,7 @@ namespace CommandDesignPattern.Invoker
 {
     public interface IRemoteControl
     {
-        void SetButton1Command(ICommand myCommand);
-        void SetButton2Command(ICommand myCommand);
+        void SetButton1Command(MyCommand myCommand);
+        void SetButton2Command(MyCommand myCommand);
     }
 }

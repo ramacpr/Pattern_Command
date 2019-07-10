@@ -13,5 +13,3 @@ D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\Com
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.CoreCompileInputs.cache
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\ConfigureBtnView.g.cs
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\ConfigureBtnView.baml

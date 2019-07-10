@@ -55,9 +55,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ConfigureBtnView.xaml.cs">
-      <DependentUpon>ConfigureBtnView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="Invoker\IRemoteControl.cs" />
     <Compile Include="Invoker\RemoteControl_2Button.cs" />
     <Compile Include="Receivers\AC.cs" />
@@ -66,10 +63,6 @@
     <Compile Include="Receivers\Heater.cs" />
     <Compile Include="Receivers\IReceiver.cs" />
     <Compile Include="Receivers\Lights.cs" />
-    <Page Include="ConfigureBtnView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -85,7 +78,7 @@
     <Compile Include="Commands\FanOn.cs" />
     <Compile Include="Commands\HeaterOff.cs" />
     <Compile Include="Commands\HeaterOn.cs" />
-    <Compile Include="Commands\IMyCommand.cs" />
+    <Compile Include="Commands\MyCommand.cs" />
     <Compile Include="Commands\IncreaseACTemp.cs" />
     <Compile Include="Commands\LightsOff.cs" />
     <Compile Include="Commands\LightsOn.cs" />
