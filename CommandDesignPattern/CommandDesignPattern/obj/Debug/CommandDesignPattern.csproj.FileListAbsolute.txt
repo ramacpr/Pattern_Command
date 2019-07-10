@@ -1,0 +1,17 @@
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csprojAssemblyReference.cache
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\MainWindow.g.cs
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\App.g.cs
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern_MarkupCompile.cache
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern_MarkupCompile.lref
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\MainWindow.baml
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.g.resources
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.Properties.Resources.resources
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.GenerateResource.cache
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\ConfigureBtnView.g.cs
+D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Debug\ConfigureBtnView.baml

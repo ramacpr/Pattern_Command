@@ -1,0 +1,25 @@
+﻿<Window x:Class="CommandDesignPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CommandDesignPattern"
+        mc:Ignorable="d" SizeToContent="WidthAndHeight"
+        Title="Testing Command Design Pattern">
+    <StackPanel Orientation="Horizontal">
+        <StackPanel Margin="20" Orientation="Vertical" VerticalAlignment="Center">
+            <Button x:Name="Button1" Height="100" Width="150" Click="Button1_Click"                >
+                Button 1
+            </Button>
+            <Button x:Name="B1_Configure" Height="30" Width="100" Click="B1_Configure_Click">
+                Configure Btn 1
+            </Button>
+            <Button x:Name="Button2" Height="100" Width="150" Margin="0, 20, 0, 0" Click="Button2_Click"                    >
+                Button 2
+            </Button>
+            <Button x:Name="B2_Configure" Height="30" Width="100" Click="B2_Configure_Click">
+                Configure Btn 2
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
