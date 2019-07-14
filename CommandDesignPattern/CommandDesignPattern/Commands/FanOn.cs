@@ -8,7 +8,7 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class FanOn : ICommand
+    public class FanOn 
     {
         public FanOn() { }
 
@@ -26,6 +26,11 @@ namespace CommandDesignPattern.Commands
         public void Execute(object parameter)
         {
             MessageBox.Show("Fan On");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -8,7 +8,7 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class IncreaseACTemp : ICommand
+    public class IncreaseACTemp 
     {
         public IncreaseACTemp() { }
 
@@ -26,6 +26,11 @@ namespace CommandDesignPattern.Commands
         public void Execute(object parameter)
         {
             MessageBox.Show("Increase AC Temperature");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

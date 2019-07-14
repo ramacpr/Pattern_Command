@@ -8,24 +8,18 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class DecreaseACTemp : ICommand
+    public class DecreaseACTemp 
     {
         public DecreaseACTemp() { }
-
-        public event EventHandler CanExecuteChanged
-        {
-            add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested -= value; }
-        }
-
-        public bool CanExecute(object parameter)
-        {
-            return true;
-        }
 
         public void Execute(object parameter)
         {
             MessageBox.Show("Decreased AC Temperature");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

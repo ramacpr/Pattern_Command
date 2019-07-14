@@ -1,12 +1,10 @@
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe.config
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.pdb
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\ConfigureBtnView.g.cs
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\MainWindow.g.cs
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\App.g.cs
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern_MarkupCompile.cache
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern_MarkupCompile.lref
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\ConfigureBtnView.baml
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\MainWindow.baml
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.g.resources
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.Properties.Resources.resources
@@ -14,6 +12,4 @@ D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\C
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.csproj.CoreCompileInputs.cache
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.exe
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.pdb
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe.CodeAnalysisLog.xml
-D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\bin\Release\CommandDesignPattern.exe.lastcodeanalysissucceeded
 D:\C#\MyProjects\Command\CommandDesignPattern\CommandDesignPattern\obj\Release\CommandDesignPattern.csprojAssemblyReference.cache

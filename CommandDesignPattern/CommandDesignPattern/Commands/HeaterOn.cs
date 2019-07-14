@@ -8,7 +8,7 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class HeaterOn : ICommand
+    public class HeaterOn
     {
         public HeaterOn() { }
 
@@ -26,6 +26,11 @@ namespace CommandDesignPattern.Commands
         public void Execute(object parameter)
         {
             MessageBox.Show("Heater On");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

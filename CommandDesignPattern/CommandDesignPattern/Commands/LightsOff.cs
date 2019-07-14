@@ -8,7 +8,7 @@ using System.Windows.Input;
 
 namespace CommandDesignPattern.Commands
 {
-    public class LightsOff : ICommand
+    public class LightsOff 
     {
         public LightsOff() { }
 
@@ -26,6 +26,11 @@ namespace CommandDesignPattern.Commands
         public void Execute(object parameter)
         {
             MessageBox.Show("Lights Off");
+        }
+
+        public void UnExecute()
+        {
+            throw new NotImplementedException();
         }
     }
 }
