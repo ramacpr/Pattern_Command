@@ -25,8 +25,8 @@ namespace CommandDesignPattern.Commands
 
         public MyCommand(Action executeMethod, Action unExecuteMethod)
         {
-            OnExecuteAction = executeMethod;
-            OnUnExecuteAction = unExecuteMethod;
+            OnExecuteAction += executeMethod;
+            OnUnExecuteAction += unExecuteMethod;
         }
         public bool CanExecute(object parameter)
         {

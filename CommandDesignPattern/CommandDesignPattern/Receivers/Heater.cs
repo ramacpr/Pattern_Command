@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace CommandDesignPattern.Receivers
 {
@@ -12,12 +13,12 @@ namespace CommandDesignPattern.Receivers
 
         public void ActionOff()
         {
-            throw new NotImplementedException();
+            MessageBox.Show("Heater Off");
         }
 
         public void ActionOn()
         {
-            throw new NotImplementedException();
+            MessageBox.Show("Heater On");
         }
     }
 }

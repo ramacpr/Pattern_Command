@@ -3,23 +3,21 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:CommandDesignPattern"
+        xmlns:local="clr-namespace:CommandDesignPattern" ResizeMode="NoResize"
         mc:Ignorable="d" SizeToContent="WidthAndHeight"
-        Title="Testing Command Design Pattern">
+        Title="Command Design Pattern">
 
     <StackPanel Orientation="Vertical">
         <StackPanel Orientation="Horizontal" Margin="10">
             <ComboBox Name="B1Setting" Height="20" Width="100"
                       ItemsSource="{Binding Path=MyCommandList}"
-                      SelectedValue="{Binding Path=SelectedCommandButton1, Mode=TwoWay}"
-                      SelectionChanged="B1Setting_SelectionChanged"></ComboBox>
+                      SelectedValue="{Binding Path=SelectedCommandButton1, Mode=TwoWay}"></ComboBox>
             <Button x:Name="Btn1" Margin="5" Command="{Binding Button1Cmd}">Button 1</Button>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Margin="10">
             <ComboBox Name="B2Setting" Height="20" Width="100"
                       ItemsSource="{Binding Path=MyCommandList}" 
-                      SelectedValue="{Binding Path=SelectedCommandButton2, Mode=TwoWay}"
-                      SelectionChanged="B2Setting_SelectionChanged"></ComboBox>
+                      SelectedValue="{Binding Path=SelectedCommandButton2, Mode=TwoWay}"></ComboBox>
             <Button x:Name="Btn2" Margin="5" Command="{Binding Button2Cmd}">Button 2</Button>
         </StackPanel>
     </StackPanel>
